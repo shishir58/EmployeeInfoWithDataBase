@@ -1,0 +1,9 @@
+F:\Batch_04_SEIP_Shsihir\Self Work\Class10\EmployeeInfoWithDataBase\EmployeeInfoWithDataBase\bin\Debug\EmployeeInfoWithDataBase.exe.config
+F:\Batch_04_SEIP_Shsihir\Self Work\Class10\EmployeeInfoWithDataBase\EmployeeInfoWithDataBase\bin\Debug\EmployeeInfoWithDataBase.exe
+F:\Batch_04_SEIP_Shsihir\Self Work\Class10\EmployeeInfoWithDataBase\EmployeeInfoWithDataBase\bin\Debug\EmployeeInfoWithDataBase.pdb
+F:\Batch_04_SEIP_Shsihir\Self Work\Class10\EmployeeInfoWithDataBase\EmployeeInfoWithDataBase\obj\Debug\EmployeeInfoWithDataBase.csprojResolveAssemblyReference.cache
+F:\Batch_04_SEIP_Shsihir\Self Work\Class10\EmployeeInfoWithDataBase\EmployeeInfoWithDataBase\obj\Debug\EmployeeInfoWithDataBase.employeeInfoForm.resources
+F:\Batch_04_SEIP_Shsihir\Self Work\Class10\EmployeeInfoWithDataBase\EmployeeInfoWithDataBase\obj\Debug\EmployeeInfoWithDataBase.Properties.Resources.resources
+F:\Batch_04_SEIP_Shsihir\Self Work\Class10\EmployeeInfoWithDataBase\EmployeeInfoWithDataBase\obj\Debug\EmployeeInfoWithDataBase.csproj.GenerateResource.Cache
+F:\Batch_04_SEIP_Shsihir\Self Work\Class10\EmployeeInfoWithDataBase\EmployeeInfoWithDataBase\obj\Debug\EmployeeInfoWithDataBase.exe
+F:\Batch_04_SEIP_Shsihir\Self Work\Class10\EmployeeInfoWithDataBase\EmployeeInfoWithDataBase\obj\Debug\EmployeeInfoWithDataBase.pdb
